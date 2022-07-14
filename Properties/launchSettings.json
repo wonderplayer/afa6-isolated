@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "afa_net_6_isolated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7127",
+      "launchBrowser": false
+    }
+  }
+}
